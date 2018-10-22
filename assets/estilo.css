@@ -1,0 +1,78 @@
+*{font-family: sans-serif; text-align: center; padding: 0; margin:0;}
+
+
+
+.pesquisar {
+	width: 100%;
+	display: flex; 
+	flex-direction: column;
+	margin: 0 auto;
+}
+
+.legenda{
+	margin-top: 200px;
+	margin-bottom: 20px;
+}
+
+.admin{
+	
+	width: 100%; 
+	text-align: center;
+	display: flex; 
+	flex-direction: column;
+	margin: 5% auto;
+}
+
+.formulario {
+	width: 100%; 
+	text-align: center;
+	display: flex; 
+	flex-direction: column;
+	margin: 0 auto;
+	
+}
+.resultados{
+	text-align: center;
+	display: flex; 
+	flex-direction: row;
+	justify-content: center;
+
+}
+
+
+.conteudoresultado{
+	
+	margin-left: 10%;
+	padding: 2%;
+	margin-right: 2%;
+	width: 20%;
+	height: 400px;
+	float: left;
+	
+	
+
+
+
+}
+.inputestilo{
+		-webkit-box-shadow: -2px 13px 22px -13px rgba(153,153,153,1);
+		-moz-box-shadow: -2px 13px 22px -13px rgba(153,153,153,1);
+		box-shadow: -2px 13px 22px -13px rgba(153,153,153,1);
+}
+
+.estilo{
+	background-color: #f1f1f1; 
+	text-decoration: none;
+	color: #000;
+	margin-top: 20px;
+	height: 36px; 
+	line-height: 27px;
+	font-family: arial,sans-serif;
+    font-size: 13px;
+    margin: 11px 4px;
+    min-width: 54px;
+   	text-align: center;
+}
+
+/* input[type="text"],input[type="email"],input[type="password"]{ width: 50%; height: 50px; }  */
+/* input[type="submit"]{width: 20%; height: 50px; border: 1px solid #f3f3f3; margin-top: 5px;} */ */

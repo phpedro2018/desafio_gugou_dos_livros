@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="googledoslivros.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="195.03937"
+     inkscape:cy="331.42857"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g3873"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50">
+      <text
+         transform="scale(0.99584215,1.0041752)"
+         id="text12"
+         y="199.78633"
+         x="15.054863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.46343613px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4285f4;fill-opacity:1;stroke:none;stroke-width:0.91349119"
+         xml:space="preserve"><tspan
+           dy="3.0238097"
+           dx="-1.6619048"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Reem Kufi';-inkscape-font-specification:'Reem Kufi';fill:#4285f4;fill-opacity:1;stroke-width:0.91349119;letter-spacing:-0.015875px"
+           y="199.78633"
+           x="15.054863"
+           id="tspan10"
+           sodipodi:role="line">G<tspan
+   id="tspan3750"
+   style="fill:#ff2a2a;letter-spacing:-0.015875px">u</tspan><tspan
+   id="tspan3752"
+   style="fill:#ffd42a;letter-spacing:-0.015875px">g</tspan>o<tspan
+   id="tspan3756"
+   style="fill:#44aa00;letter-spacing:-0.015875px">u</tspan></tspan><tspan
+           id="tspan3760"
+           style="font-size:50.79999924px;fill:#4285f4;fill-opacity:1;stroke-width:0.91349119"
+           y="259.7951"
+           x="15.054863"
+           sodipodi:role="line" /></text>
+      <text
+         transform="scale(0.89069903,1.1227137)"
+         id="text3863"
+         y="177.76141"
+         x="216.19473"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.31172943px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17674577"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.93518829px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script';fill:#0000ff;stroke-width:0.17674577"
+           y="177.76141"
+           x="216.19473"
+           id="tspan3861"
+           sodipodi:role="line">dos livros </tspan></text>
+    </g>
+  </g>
+</svg>
